@@ -1,4 +1,4 @@
-//4D21 “cŒû°M
+
 #include <stdio.h>
 #include <string.h>
 
